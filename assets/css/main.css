@@ -1277,4 +1277,23 @@ body.darkmode a.btn-default {
   color: var(--color-blue);
 }
 
+
+.custome_social-footer{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.custome_social-footer a{
+  color: #ffffff;
+}
+
+.color-blue{
+  color: var(--color-blue);
+}
+
+.color-white{
+  color: var(--color-white);
+}
+
 /* css end */
